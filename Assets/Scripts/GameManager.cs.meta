@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a23fa85129aba8949bd86706c92759c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TitleScreenMusic: {fileID: 8300000, guid: 1fb9d14235ba7b84baa8214307ca2c52, type: 3}
+  - InGameMusic: {fileID: 8300000, guid: 6f7541a43501684458916a57b539387c, type: 3}
+  - pet: {instanceID: 0}
+  - mainGameCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

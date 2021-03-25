@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14eaee035919ea04f9d08eb9c228a026
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - toy: {fileID: 8628479557910950346, guid: 42e01b13a4aac194bb9b24177a52d1e5, type: 3}
+  - meow1: {fileID: 8300000, guid: 779ce82973c989c43a97d1ca8e814438, type: 3}
+  - meow2: {fileID: 8300000, guid: feacc8d76f18b0c4c891785e6842eddd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6a339d6f1a46c54b8e1a8268c9b82e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - toy: {fileID: 6890304527632992115, guid: 58d7086adc24e524fbae23f985c52e24, type: 3}
+  - bark1: {fileID: 8300000, guid: 01f63e67ff0775f4d9b272353dd1cba4, type: 3}
+  - bark2: {fileID: 8300000, guid: 16a4edd76c602c4478c5f8b15e92a5fe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

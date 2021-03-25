@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad429d37ca87906468da8ee788324598
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DogSpritePrefab: {fileID: 7337723429399409251, guid: 59e8d3a6c6bb63847858e3a30c0b4081,
+      type: 3}
+  - CatSpritePrefab: {instanceID: 0}
+  - BirdSpritePrefab: {instanceID: 0}
+  executionOrder: -500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

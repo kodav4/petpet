@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9d9e6a79a0ef9f54ca1c5b9cdc82065b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TickerPrefab: {fileID: 4506234933356206436, guid: 972c5c34960fb5c4ba58bbc399758d6e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
